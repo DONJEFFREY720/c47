@@ -112,7 +112,7 @@ function draw() {
      
      textSize(50);
      fill("white");
-     text("YOUR SCORE : " +score,windowWidth-1000,windowHeight/4+200);
+     text("YOUR SCORE : " +score,windowWidth-900,windowHeight/4+200);
      
     // restart.visible = true
     // restart.scale = 0.2
